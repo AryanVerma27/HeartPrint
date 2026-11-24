@@ -64,12 +64,7 @@ npm install -g edge-impulse-cli --force
 - Quantization (int8) vs. float32: ~4× smaller memory for a small accuracy cost
 - ECG as a biometric: universality, uniqueness, liveness detection
 
-## Authors
+## Author
 
-- **Shrinath Abhay Palwankar**
 - **Aryan Verma**
 
-## Authors
-
-- **Shrinath Abhay Palwankar**
-- **Aryan Verma**
